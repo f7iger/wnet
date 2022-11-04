@@ -1,4 +1,4 @@
-# wnet
+# Wireless utils
 Se conecte facilmenta a uma rede wifi via terminal! ;)
 
 Adicione em seu `~/.local/bin`(se este estiver na variavel de ambiente PATH) para usar sem a necessidade do "./"
